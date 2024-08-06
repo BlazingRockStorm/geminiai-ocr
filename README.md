@@ -18,7 +18,7 @@ python app.py
 ## Conclusion
 
 - Gemini 1.5 Flash: 50% correct
-- Gemini 1.5 Pro: 100% correct, but sometimes this happened:
+- Gemini 1.5 Pro: 100% correct, but sometimes this happened(This Pro version is something like free trial since it is the same key as the above Flash model, and my account didn't have any payment):
 ```log
 Traceback (most recent call last):
   File "/Users/user/projects/geminiai-ocr/app.py", line 40, in <module>
